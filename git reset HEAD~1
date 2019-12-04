@@ -1,0 +1,60 @@
+[33mcommit f5737be5ad4d0e1cc5241c94aa21d8bd1a30e5e1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: varunsinglaa <varunsingla1999@gmail.com>
+Date:   Wed Dec 4 19:12:31 2019 +0530
+
+    git
+    Varun@LAPTOP-NSUVLH1K MINGW64 ~/Desktop/phone-directory (master)
+    $ git add .
+    warning: LF will be replaced by CRLF in src/App.js.
+    The file will have its original line endings in your working directory
+    
+    Varun@LAPTOP-NSUVLH1K MINGW64 ~/Desktop/phone-directory (master)
+    $ git commit -m
+
+[33mcommit 6da1b092003beba2ed232efd4408ab349f957099[m
+Author: varunsinglaa <varunsingla1999@gmail.com>
+Date:   Wed Dec 4 12:01:34 2019 +0530
+
+    Styling: Styled 'App' (Home Page)
+
+[33mcommit d0e719fbde7f5d6117d6678bfc673b6aa20ab230[m
+Author: varunsinglaa <varunsingla1999@gmail.com>
+Date:   Wed Dec 4 11:53:10 2019 +0530
+
+    Styling: Styled 'Header' (External)
+
+[33mcommit e21bd4b998c3a1f6574ecd495673a95a69fb8d49[m
+Author: varunsinglaa <varunsingla1999@gmail.com>
+Date:   Wed Dec 4 11:45:10 2019 +0530
+
+    Styling: Styled 'Header' (Inline)
+
+[33mcommit b8419c2d6dd1967857fd632c0dd195b76cdb10b4[m
+Author: varunsinglaa <varunsingla1999@gmail.com>
+Date:   Wed Dec 4 11:36:06 2019 +0530
+
+    Components: Created 'Header' Component
+
+[33mcommit 4a59da90aa9b878b0ff033f09641eea0131f469f[m
+Author: varunsinglaa <varunsingla1999@gmail.com>
+Date:   Wed Dec 4 10:49:38 2019 +0530
+
+    JSX vs. HTML:Created Skeleton of Home Page
+
+[33mcommit 1585270c74c7d81e6371f929a1784dcf51ecb4ad[m
+Author: varunsinglaa <varunsingla1999@gmail.com>
+Date:   Wed Dec 4 10:31:14 2019 +0530
+
+    JSX: Displayed 'Phone Directory'
+
+[33mcommit e19a7c88c8c0ff255f949fb6d54669136cc822c2[m
+Author: varunsinglaa <varunsingla1999@gmail.com>
+Date:   Wed Dec 4 10:20:36 2019 +0530
+
+    Codebase Cleanup
+
+[33mcommit d0c4e65087b3b9a246f5dd3cffc02dbba38a1729[m
+Author: varunsinglaa <varunsingla1999@gmail.com>
+Date:   Tue Dec 3 15:11:25 2019 +0530
+
+     Initial commit from Create React App

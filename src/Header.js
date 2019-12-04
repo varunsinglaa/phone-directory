@@ -4,7 +4,7 @@ import './Header.css';
  const Header = function () {
 
      return (
-        <div className="header">
+         <div className="header">
              Phone Directory
          </div>
      )
